@@ -1,3 +1,3 @@
 function main() {
-    return {payload: 'Hello world 3'};
+    return {payload: 'Hello world'};
 }
